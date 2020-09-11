@@ -1,2 +1,2 @@
 jdk11 = true
-build = "mvn compile"
+build = "mvn compile -pl '!docs'"
